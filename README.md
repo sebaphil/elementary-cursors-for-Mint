@@ -1,5 +1,5 @@
-elementary Cursor Theme
-=======================
+elementary Cursor Theme redesigned for Linux Mint
+=================================================
 
 A cursor theme for elementary OS redesigned for Linux Mint
 
