@@ -1,7 +1,8 @@
 elementary Cursor Theme redesigned for Linux Mint
 =================================================
+### Preview
 
-
+[![Preview](https://github.com/AlessandroBusolin/elementary-cursors-for-Mint/blob/master/preview/elementary.png)](#features)
 
 A cursor theme for elementary OS redesigned for Linux Mint
 
