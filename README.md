@@ -52,7 +52,7 @@ Copia la cartella 'elementary' dentro '/usr/share/icons', quindi imposta il curs
 
     gsettings set org.gnome.desktop.interface cursor-theme 'elementary'
 
-Ma per fare un cambiamento a tutti i livelli del sistema esegui i seguenti comandi:
+Ma per fare un cambiamento a tutti i livelli del sistema devi eseguire i seguenti comandi:
 
     sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/elementary/cursor.theme 13
     sudo update-alternatives --set x-cursor-theme /usr/share/icons/elementary/cursor.theme
