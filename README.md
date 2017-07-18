@@ -1,11 +1,13 @@
 elementary Cursor Theme redesigned for Linux Mint
 =================================================
 
+
+
 A cursor theme for elementary OS redesigned for Linux Mint
 
 These cursors are free artwork; you can redistribute them and/or modify them under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
 
-###Installing 
+### Installing 
 
 Copy the 'elementary' folder into '/usr/share/icons', then set your cursor theme using your favourite tool or:
 
@@ -20,7 +22,7 @@ Then log out and back in for the changes to take effect.
 
 For manual installation, you may have to change the copied files' permissions (to 755) after copying in order to use the theme.
 
-###Using the Source
+### Using the Source
 
 There are scripts to simplify the rendering process; to run them (and edit icons) you will need:
 
@@ -46,7 +48,7 @@ Un tema per il cursore di elementary OS ridisegnato per Linux Mint
 
 Questi cursori sono opere d'arte gratuite; li puoi redistribuire e/o modificare secondo i termini della [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
 
-###Installazione
+### Installazione
 
 Copia la cartella 'elementary' dentro '/usr/share/icons', quindi imposta il cursore usando il tuo programma/strumento preferito oppure:
 
