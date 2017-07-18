@@ -39,8 +39,8 @@ Then make the theme by running the make script in the [src/cursors/pngs](src/cur
 
 -----------
 
-elementary Cursor Theme ridisegnato per Linux Mint
-==================================================
+"elementary Cursor Theme" ridisegnato per Linux Mint
+====================================================
 
 Un tema per il cursore di elementary OS ridisegnato per Linux Mint
 
