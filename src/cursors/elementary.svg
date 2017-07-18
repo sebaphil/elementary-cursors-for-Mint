@@ -688,9 +688,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="306.48381"
-     inkscape:cy="117.2038"
+     inkscape:zoom="22.627417"
+     inkscape:cx="280.7589"
+     inkscape:cy="230.45711"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="400px"
@@ -2400,38 +2400,42 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,277.99993,163.97047)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
        id="g4772-3-2">
       <path
-         style="fill:#000000"
+         style="fill:#000000;stroke:#ffffff;stroke-opacity:1"
          inkscape:connector-curvature="0"
          d="m 1.975,3.994 11.993,0 0,-0.986 -11.993,0 0,0.986 z"
          id="stem-6-9" />
       <path
-         style="fill:#000000"
+         style="fill:#000000;stroke:#ffffff;stroke-opacity:1"
          inkscape:connector-curvature="0"
          d="m 7.976,4.996 0.984,0 0,-2.986 -0.984,0 0,2.986 z"
          id="stem-dash-7-1" />
       <path
-         style="stroke:#000000"
+         style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         d="m 2.7134,3.4941 c -0.5,-0.167 -1.27,-0.737 -1.525,-1.107 -0.243,-0.35 -0.45,-0.71 -0.559,-1.054 -0.135,-0.421 -0.094,-1.308 -0.094,-1.308"
-         id="curve4-5-27" />
+         d="m 2.7134,3.4941 c -0.5,-0.167 -1.27,-0.737 -1.525,-1.107 -0.243,-0.35 -0.45,-0.71 -0.559,-1.054 -0.135,-0.421 -0.094,-1.80817 -0.094,-1.80817"
+         id="curve4-5-27"
+         sodipodi:nodetypes="cccc" />
       <path
-         style="stroke:#000000"
+         style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         d="m 2.7153,3.5283 c -0.525,0.153 -1.33,0.784 -1.549,1.065 -0.26,0.336 -0.428,0.709 -0.537,1.053 -0.135,0.422 -0.094,1.309 -0.094,1.309"
-         id="curve3-3-0" />
+         d="m 2.7153,3.5283 c -0.525,0.153 -1.33,0.784 -1.549,1.065 -0.26,0.336 -0.428,0.709 -0.537,1.053 -0.135,0.422 -0.094,1.80863 -0.094,1.80863"
+         id="curve3-3-0"
+         sodipodi:nodetypes="cccc" />
       <path
-         style="stroke:#000000"
+         style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         d="m 13.2598,3.4941 c 0.5,-0.167 1.269,-0.737 1.523,-1.107 0.244,-0.35 0.451,-0.71 0.558,-1.054 0.136,-0.421 0.095,-1.308 0.095,-1.308"
-         id="curve2-5-9" />
+         d="m 13.2598,3.4941 c 0.5,-0.167 1.269,-0.737 1.523,-1.107 0.244,-0.35 0.451,-0.71 0.558,-1.054 0.136,-0.421 0.095,-1.80817 0.095,-1.80817"
+         id="curve2-5-9"
+         sodipodi:nodetypes="cccc" />
       <path
-         style="stroke:#000000"
+         style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         d="m 13.2559,3.5283 c 0.525,0.153 1.329,0.784 1.549,1.065 0.261,0.336 0.429,0.709 0.537,1.053 0.136,0.422 0.095,1.309 0.095,1.309"
-         id="curve1-6-3" />
+         d="m 13.2559,3.5283 c 0.525,0.153 1.329,0.784 1.549,1.065 0.261,0.336 0.429,0.709 0.537,1.053 0.136,0.422 0.095,1.80863 0.095,1.80863"
+         id="curve1-6-3"
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
        transform="matrix(0.87164204,0.17338038,-0.17338038,0.87164204,105.05782,42.862655)"
@@ -3171,6 +3175,41 @@
            d="m 35.5,283 c 0.171381,0 0.338136,-0.0176 0.5,-0.0508 l 0,-1.03906 c -0.156806,0.0544 -0.322667,0.0898 -0.5,0.0898 -0.839649,0 -1.5,-0.66035 -1.5,-1.5 l 0,-3 c 0,-0.83965 0.660351,-1.5 1.5,-1.5 0.839649,0 1.5,0.66035 1.5,1.5 l 0,0.85547 c 0.372938,0.17991 0.713641,0.41517 1,0.70898 L 38,277.5 c 0,-1.37635 -1.123649,-2.5 -2.5,-2.5 -1.376351,0 -2.5,1.12365 -2.5,2.5 l 0,3 c 0,1.37635 1.123649,2.5 2.5,2.5 z"
            id="path76579-9-3" />
       </g>
+    </g>
+    <g
+       transform="matrix(0,1,-1,0,277.96573,163.97237)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="g4772-3-2-2">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="m 1.975,3.994 11.993,0 0,-0.986 -11.993,0 0,0.986 z"
+         id="stem-6-9-9" />
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="m 7.976,4.996 0.984,0 0,-2.986 -0.984,0 0,2.986 z"
+         id="stem-dash-7-1-1" />
+      <path
+         style="stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 2.7134,3.4941 c -0.5,-0.167 -1.27,-0.737 -1.525,-1.107 -0.243,-0.35 -0.45,-0.71 -0.559,-1.054 -0.135,-0.421 -0.094,-1.308 -0.094,-1.308"
+         id="curve4-5-27-2" />
+      <path
+         style="stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 2.7153,3.5283 c -0.525,0.153 -1.33,0.784 -1.549,1.065 -0.26,0.336 -0.428,0.709 -0.537,1.053 -0.135,0.422 -0.094,1.309 -0.094,1.309"
+         id="curve3-3-0-7" />
+      <path
+         style="stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 13.2598,3.4941 c 0.5,-0.167 1.269,-0.737 1.523,-1.107 0.244,-0.35 0.451,-0.71 0.558,-1.054 0.136,-0.421 0.095,-1.308 0.095,-1.308"
+         id="curve2-5-9-0" />
+      <path
+         style="stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 13.2559,3.5283 c 0.525,0.153 1.329,0.784 1.549,1.065 0.261,0.336 0.429,0.709 0.537,1.053 0.136,0.422 0.095,1.309 0.095,1.309"
+         id="curve1-6-3-9" />
     </g>
   </g>
   <g
