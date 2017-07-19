@@ -30,7 +30,7 @@ There are scripts to simplify the rendering process; to run them (and edit icons
 To render the cursor theme from the [source plate](src/cursors/elementary.svg) you will need to run the render script in [src/cursors](src/cursors):
 	
 	cd src/cursors
-    python renderpngs.py
+    python renderpngs.py name_file.svg
 
 Then make the theme by running the make script in the [src/cursors/pngs](src/cursors/pngs) folder:
 
