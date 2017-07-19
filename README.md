@@ -63,3 +63,22 @@ Ma per fare un cambiamento a tutti i livelli del sistema devi eseguire i seguent
 Quindi esegui il log out per rendere effettivi i cambiamenti.
 
 Per l'installazione manuale, potrebbe essere necessario che modifichi le autorizzazioni dei file copiati (a 755) dopo la copia, per poter utilizzare il tema.
+
+### Usare il sorgente
+
+Ci sono degli script che semplificano il processo di rendering; per avviarli (e modificare le icone) ti serve:
+
+ * inkscape
+ * python
+
+Per fare il render del tema del cursore da [source plate](src/cursors/elementary.svg) ti serve eseguire lo script di render in [src/cursors](src/cursors):
+
+	cd src/cursors
+    python renderpngs.py
+
+Quindi crea il tema attraverso l'esecuzione dello script "make" nella cartella [src/cursors/pngs](src/cursors/pngs): 
+
+	cd src/cursors/pngs
+    bash make.sh
+
+-----------
